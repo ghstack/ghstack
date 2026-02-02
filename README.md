@@ -1,17 +1,17 @@
 <!-- HEADER -->
 <h1 align="center" style="font-size: 42px; font-weight: bold;">Guilherme Henrique</h1>
-<h3 align="center" style="font-weight: 400;">Engenheiro de Software</h3>
+<h3 align="center" style="font-weight: 400;">Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://ghdev.tec.br" target="_blank" style="margin-right: 10px;">ghdev.tec.br</a> • 
-  <a href="mailto:seuemail@dominio.com">guihenrique.s@outlook.com</a>
+  <a href="mailto:guihenrique.s@outlook.com">guihenrique.s@outlook.com</a>
 </p>
 
 ---
 
 <div align="center">
   <h3 style="font-weight: 400; max-width: 800px;">
-    Desenvolvimento, segurança e engenharia de software com foco em arquitetura escalável, performance e proteção de dados.
+    Desenvolvimento de aplicações web modernas com foco em arquitetura escalável, performance e boas práticas de engenharia de software.
   </h3>
 </div>
 
@@ -19,11 +19,11 @@
 
 ## Perfil Profissional
 
-Sou **Engenheiro de Software** com experiência em **desenvolvimento web full stack**, **infraestrutura Linux** e **cibersegurança aplicada**.  
-Meu trabalho une **engenharia de software**, **boas práticas de arquitetura** e **segurança da informação** para criar soluções confiáveis e de alta performance.
+Sou **desenvolvedor Full Stack** com foco em **aplicações web modernas, bem estruturadas e escaláveis**, atuando principalmente com tecnologias do **ecossistema JavaScript**.
 
-Com uma abordagem baseada em clareza e estrutura, desenvolvo aplicações seguras e escaláveis, desde o backend até a interface final.  
-Atualmente, estudo e aplico conceitos de **segurança ofensiva, análise de vulnerabilidades e mitigação de riscos**.
+Trabalho com uma abordagem orientada à **qualidade de código**, **arquitetura limpa** e **experiência do usuário**, desenvolvendo soluções do backend ao frontend de forma consistente e sustentável.
+
+Tenho interesse contínuo em **boas práticas de segurança**, **performance** e **manutenibilidade**, aplicando conceitos que aumentam a confiabilidade e a longevidade dos sistemas.
 
 ---
 
@@ -33,11 +33,11 @@ Atualmente, estudo e aplico conceitos de **segurança ofensiva, análise de vuln
 
 | Categoria | Tecnologias |
 |------------|--------------|
-| **Linguagens** | JavaScript • TypeScript • C |
-| **Front-end** | React • Next.js • TailwindCSS • HTML5 • CSS3 |
-| **Back-end** | Node.js • Express • REST APIs • Postgres |
-| **Cibersegurança** | OWASP • Pentest • Hardening • Secure Coding • Threat Modeling |
-| **Infraestrutura e DevOps** | Linux • Docker • CI/CD • Nginx • Cloud Deploy |
+| **Linguagens** | JavaScript • TypeScript |
+| **Front-end** | React • Next.js • Tailwind CSS • HTML5 • CSS3 |
+| **Back-end** | Node.js • Express • REST APIs • PostgreSQL • Prisma |
+| **Boas Práticas** | Clean Code • Arquitetura em Camadas • Secure Coding |
+| **DevOps** | Git • CI/CD • Docker • Deploy em Cloud |
 
 </div>
 
@@ -45,19 +45,20 @@ Atualmente, estudo e aplico conceitos de **segurança ofensiva, análise de vuln
 
 ## Abordagem e Filosofia
 
-> **“Código limpo, seguro e escalável é a base de qualquer sistema confiável.”**
+> **“Software bem escrito é aquele que continua simples mesmo quando cresce.”**
 
-- **Segurança primeiro:** cada linha de código é pensada para evitar falhas e vulnerabilidades.  
-- **Arquitetura sólida:** foco em modularidade, desempenho e clareza.  
-- **Soluções sustentáveis:** software projetado para evoluir sem comprometer a base.  
+- **Código limpo e organizado**, fácil de manter e evoluir  
+- **Arquitetura escalável**, preparada para crescimento  
+- **Foco em valor**, entregando soluções funcionais e bem pensadas  
 
-Minha meta é transformar complexidade em clareza — sistemas que crescem sem perder estabilidade ou segurança.
+Busco transformar requisitos complexos em **soluções claras, eficientes e confiáveis**, mantendo equilíbrio entre técnica, usabilidade e performance.
 
 ---
 
 <div align="center">
-  <sub>© 2025 Guilherme Henrique — Todos os direitos reservados.</sub>
+  <sub>© 2025 Guilherme Henrique</sub>
 </div>
+
 
 
 
