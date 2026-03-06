@@ -1,11 +1,17 @@
-Guilherme Henrique  
-Junior Web Developer | ADS Student  
+# Hi, I'm Guilherme Henrique
 
-I am a **Junior Web Developer in training**, currently studying **Analysis and Systems Development (ADS)**, with a focus on building web applications using modern JavaScript technologies.
+💻 Junior Web Developer
+🎓 Analysis and Systems Development (ADS) Student
 
-I gain hands-on experience through **academic and personal projects**, where I practice front-end and back-end development, API integration, and database usage, always aiming to write clean, readable, and well-organized code.
+I am a Junior Web Developer in training, currently studying Analysis and Systems Development. I focus on building web applications using modern JavaScript technologies.
 
-I am constantly learning and seeking my **first professional opportunity in web development**, where I can grow technically, learn from experienced developers, and contribute consistently to real projects.
+Through academic and personal projects, I practice front-end and back-end development, API integration, and database usage, always aiming to write clean and organized code.
+
+Currently looking for my first opportunity as a **Junior Developer or Intern**, where I can grow, learn from experienced developers, and contribute to real projects.
+
+## 🛠 Technologies
+
+HTML • CSS • JavaScript • React • Java • Python • Git
 
 
 
