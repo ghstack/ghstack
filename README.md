@@ -9,9 +9,6 @@ Through academic and personal projects, I practice front-end and back-end develo
 
 Currently looking for my first opportunity as a **Junior Developer or Intern**, where I can grow, learn from experienced developers, and contribute to real projects.
 
-## 🛠 Technologies
-
-HTML • CSS • JavaScript • React • Java • Python • Git
 
 
 
